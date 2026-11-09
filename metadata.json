@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix SubLive AI",
+  "description": "Real-time local AI subtitle and Korean-to-English translation overlay for Android using AudioPlaybackCapture, rolling audio ring buffer, and offline speech intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
